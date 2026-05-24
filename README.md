@@ -81,16 +81,19 @@ Program
 Output Waveform
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9db1604a-8194-458f-ad65-0d88816a6f0a" />
 
 
 
 TABULATION:
 
+<img width="1137" height="1600" alt="image" src="https://github.com/user-attachments/assets/967daffb-d2da-482b-b3fb-f869310aab60" />
 
 
 Calculation
-1.	ma (Theory) = am/ac =
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+<img width="1213" height="1600" alt="image" src="https://github.com/user-attachments/assets/838f17c5-f859-4abd-bf0f-5f81b6e59f12" />
+
+<img width="1600" height="976" alt="image" src="https://github.com/user-attachments/assets/991a0eb7-456c-42c2-8ea2-f52e44459799" />
 
 
 MODEL GRAPH
